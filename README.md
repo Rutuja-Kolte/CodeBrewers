@@ -1,4 +1,4 @@
 # CodeBrewers
-Rutuja Kolte  
+Rutuja Ajay Kolte  
 Mahek Ajay Salia  
 Reshmika Sreenath Nambiar
