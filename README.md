@@ -1,3 +1,4 @@
 # CodeBrewers
 Rutuja Kolte  
-Mahek Ajay Salia
+Mahek Ajay Salia  
+Reshmika Sreenath Nambiar
