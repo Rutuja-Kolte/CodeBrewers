@@ -10,7 +10,7 @@
 
 ## Mentors
 * Anuj Raghani
-* Bhavya Sheth 
+* Bhavya Sheth
 * Owais Hetavkar
 * Vedant Paranjape
 
@@ -25,20 +25,29 @@ Tools and technologies that we learnt and used in the project.
 
 1. Python
 2. Open CV and CNN
-3. Jupyter notebook 
+3. Jupyter notebook
 4. Machine learning
 
 ## Project Setup
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+1. Clone the CodeBrewers repository
+2. Open Google Drive and create a folder named CodeBrewers.
+3. Upload all files fro, the CodeBrewers repository on your pc to Google Drive.
+4. Also add the dataset from kaggle (link given) and name it proj.zip
+5. Right click on GestureDector.ipynb file in Google Drive.
+6. Click on open with Google Colab.
+7. Run the code.
 
 ## Usage
 >Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
 
 ## Applications
->How can your project do its part in solving a real-life problem? What are its possible applications? Decribe here.
+1. Touchless user interface is an emerging type of technology in relation to gesture control. One type of touchless interface uses the bluetooth connectivity of a smartphone to activate a company's visitor management system. This prevents having to touch an interface during the COVID-19 pandemic.
+2. Hand gesture recognition has great value in sign language recognition and sign language interpreters for the disabled.
+3. In cranes, this can be used instead of remotes so that easy picking and shedding of load can be load at difficult locations.
 
 ## Future scope
->Mention ways in which the project can be improved and built upon in the future.
+The project can be linked to a Media player such as VLC and the gestures can be used to control the video like increasing or decreasing its volume or fast forwarding and rewinding the video. Also, instead of using a mouse the gestures can also be used to control your mouse pointer.
+In the above project we have used only static gestures. It can be modified to include dynamic gestures(swiping your fist to the right or left, moving your finger up and down etc.)
 
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
