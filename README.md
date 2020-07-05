@@ -15,29 +15,18 @@
 * Vedant Paranjape
 
 ## Description
-Add your project description here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
-
-* Use bullet points for any feature descriptions you may want to add
-
-```bash
-    Add appropriate code snippets here (4 spaces indent)
-```
-
-Don't forget to replace the link here with **_your own Github repository_** link.
-
-Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
-
+The goal of our project was to train Machine learning algorithm capable of classifying images of different hand gestures,such as fists,palm showing,etc.,and use it for gesture navigation
 * GitHub repo link: [Link to repository](https://github.com/Rutuja-Kolte/CodeBrewers)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1YxJxfa36NaUZYAGVKP1biX78SaF2loQw?usp=sharing)
 
 ## Technology stack
 
-Tools and technologies that you learnt and used in the project.
+Tools and technologies that we learnt and used in the project.
 
-1. Language-1
-2. Language-2
-3. Framework-1
-4. Framework-2 (Add or remove as required)
+1. Python
+2. Open CV and CNN
+3. Jupyter notebook 
+4. Machine learning
 
 ## Project Setup
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
