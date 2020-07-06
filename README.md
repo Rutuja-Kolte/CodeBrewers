@@ -29,21 +29,45 @@ Tools and technologies that we learnt and used in the project.
 4. Machine learning
 
 ## Project Setup
-1. Clone the CodeBrewers repository
+### Method 1  
+1. Clone the CodeBrewers repository  
+```bash
+    git clone https://github.com/Rutuja-Kolte/CodeBrewers
+```
 2. Open Google Drive and create a folder named CodeBrewers.
-3. Upload all files fro, the CodeBrewers repository on your pc to Google Drive.
-4. Also add the dataset from kaggle (link given) and name it proj.zip
-5. Right click on GestureDector.ipynb file in Google Drive.
-6. Click on open with Google Colab.
-7. Run the code.
+3. Upload all files from the CodeBrewers repository on your PC to Google Drive.
+4. Also add the [dataset from Kaggle](https://www.kaggle.com/gti-upm/leapgestrecog/version/1) and name it proj.zip
 
+  
+### Method 2  
+1. Clone the CodeBrewers repository  
+```bash
+    git clone https://github.com/Rutuja-Kolte/CodeBrewers
+```
+2. Go to the [drive link](https://drive.google.com/drive/folders/1YxJxfa36NaUZYAGVKP1biX78SaF2loQw?usp=sharing) and copy the folder and save it in your own drive.
 ## Usage
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+### To Create the Model (skip this if you want to use the pre-trained model)
+#### Method 1
+1. Right click on CodeBrewers.ipynb file in Google Drive.
+2. Click on open with Google Colab.
+3. Run the code.  
+#### Method 2
+1. Open CodeBrewers.ipynb from the CodeBrewers repository in Google Colab.
+2. Run the code.
+
+### To Use the Model
+#### Method 1
+1. Right click on GestureDetector.ipynb file in Google Drive.
+2. Click on open with Google Colab.
+3. Run the code.  
+#### Method 2
+1. Open GestureDetector.ipynb from the CodeBrewers repository in Google Colab.
+2. Run the code.
 
 ## Applications
 1. Touchless user interface is an emerging type of technology in relation to gesture control. One type of touchless interface uses the bluetooth connectivity of a smartphone to activate a company's visitor management system. This prevents having to touch an interface during the COVID-19 pandemic.
 2. Hand gesture recognition has great value in sign language recognition and sign language interpreters for the disabled.
-3. In cranes, this can be used instead of remotes so that easy picking and shedding of load can be load at difficult locations.
+3. In cranes, this can be used instead of remotes so that easy picking and shedding of load can be done at difficult locations.
 
 ## Future scope
 The project can be linked to a Media player such as VLC and the gestures can be used to control the video like increasing or decreasing its volume or fast forwarding and rewinding the video. Also, instead of using a mouse the gestures can also be used to control your mouse pointer.  
