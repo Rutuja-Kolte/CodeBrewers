@@ -130,11 +130,35 @@ Currently, the model used cannot recognise when there are no gestures detected. 
 In the above project we have used only static gestures. It can be modified to include dynamic gestures (swiping your fist to the right or left, moving your finger up and down, etc.).
 
 ## Screenshots
-Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://edtimes.in/wp-content/uploads/2018/09/NikeMeme10-640x633.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+* Down Gesture (down)  
+![Down Gesture (down)](https://drive.google.com/uc?export=view&id=12nRUIviFMCjMHzSf6eCIHKsci8hKCOaJ "Down Gesture (down)")  
+  
+* Palm Gesture (palm)  
+![Palm Gesture (palm)](https://drive.google.com/uc?export=view&id=19KYMxtVrM-42Il3NqcOGW9kyfPV-aJv9 "Palm Gesture (palm)")  
+  
+* L-Shape Gesture (l)  
+![L-Shape Gesture (l)](https://drive.google.com/uc?export=view&id=12y1_PAzcxS6OfEbJM7PzARzi9XNnJubT "L-Shape Gesture (l)")   
+  
+* Fist Gesture (fist)  
+![Fist Gesture (fist)](https://drive.google.com/uc?export=view&id=1zEQR6GX-RMR30-TNvAVllagcF26z3RJT "Fist Gesture (fist)")  
+  
+* Turned Fist Gesture (fist_moved)  
+![Turned Fist Gesture (fist_moved)](https://drive.google.com/uc?export=view&id=1pc51UvLf2hK0e9Lh-Ht6dCNQiS8tZSxZ "Turned Fist Gesture (fist_moved)")  
+  
+* Fist with Thumb Sticking Out Gesture (thumb)  
+![Fist with Thumb Sticking Out Gesture (thumb)](https://drive.google.com/uc?export=view&id=1a6wJQFpFS4NkPIv1n1EelaYT_ECWY6JQ "Fist with Thumb Sticking Out Gesture (thumb)") 
+  
+* Index Finger Up Gesture (index)  
+![Index Finger Up Gesture (index)](https://drive.google.com/uc?export=view&id=18W-8pzd16-ug6trs5O0_5yxQ-xkfda99 "Index Finger Up Gesture (index)")  
+  
+* OK Gesture (ok)  
+![OK Gesture (ok)](https://drive.google.com/uc?export=view&id=1FMS7NUjk3U4Eqplck5uPlxUvR8hRnhWN "OK Gesture (ok)")  
+  
+* Turned Palm Gesture (palm_moved)  
+![Turned Palm Gesture (palm_moved)](https://drive.google.com/uc?export=view&id=1T3ggA0xnYsCFJXTXVKclKEFSgI9DCoPD "Turned Palm Gesture (palm_moved)")  
+  
+* C-Shape Gesture (c)  
+![C-Shape Gesture (c)](https://drive.google.com/uc?export=view&id=1l3l0k__o6Oz0Q75uqCscfVs5HZHS8ftd "C-Shape Gesture (c)")  
+  
+## Demo Video
+[Link to Demo Video](https://drive.google.com/file/d/16xmpxe-5s1VeitDUrmdZ9yi47GWhkeAr/view?usp=sharing)
