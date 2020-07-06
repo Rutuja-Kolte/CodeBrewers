@@ -131,34 +131,34 @@ In the above project we have used only static gestures. It can be modified to in
 
 ## Screenshots
 * Down Gesture (down)  
-![Down Gesture (down)](Screenshots/down.JPG "Down Gesture (down)")  
+![Down Gesture (down)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/down.JPG "Down Gesture (down)")  
   
 * Palm Gesture (palm)  
-![Palm Gesture (palm)](Screenshots/palm.JPG "Palm Gesture (palm)")  
+![Palm Gesture (palm)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/palm.JPG "Palm Gesture (palm)")  
   
 * L-Shape Gesture (l)  
-![L-Shape Gesture (l)](Screenshots/l.JPG "L-Shape Gesture (l)")   
+![L-Shape Gesture (l)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/l.JPG "L-Shape Gesture (l)")   
   
 * Fist Gesture (fist)  
-![Fist Gesture (fist)](Screenshots/fist.JPG "Fist Gesture (fist)")  
+![Fist Gesture (fist)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/fist.JPG "Fist Gesture (fist)")  
   
 * Turned Fist Gesture (fist_moved)  
-![Turned Fist Gesture (fist_moved)](Screenshots/fist_moved.JPG "Turned Fist Gesture (fist_moved)")  
+![Turned Fist Gesture (fist_moved)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/fist_moved.JPG "Turned Fist Gesture (fist_moved)")  
   
 * Fist with Thumb Sticking Out Gesture (thumb)  
-![Fist with Thumb Sticking Out Gesture (thumb)](Screenshots/thumb.JPG "Fist with Thumb Sticking Out Gesture (thumb)") 
+![Fist with Thumb Sticking Out Gesture (thumb)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/thumb.JPG "Fist with Thumb Sticking Out Gesture (thumb)") 
   
 * Index Finger Up Gesture (index)  
-![Index Finger Up Gesture (index)](Screenshots/index.JPG "Index Finger Up Gesture (index)")  
+![Index Finger Up Gesture (index)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/index.JPG "Index Finger Up Gesture (index)")  
   
 * OK Gesture (ok)  
-![OK Gesture (ok)](Screenshots/ok.JPG "OK Gesture (ok)")  
+![OK Gesture (ok)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/ok.JPG "OK Gesture (ok)")  
   
 * Turned Palm Gesture (palm_moved)  
-![Turned Palm Gesture (palm_moved)](Screenshots/palm_moved.JPG "Turned Palm Gesture (palm_moved)")  
+![Turned Palm Gesture (palm_moved)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/palm_moved.JPG "Turned Palm Gesture (palm_moved)")  
   
 * C-Shape Gesture (c)  
-![C-Shape Gesture (c)](Screenshots/c.JPG "C-Shape Gesture (c)")  
+![C-Shape Gesture (c)](https://github.com/Rutuja-Kolte/CodeBrewers/blob/master/Screenshots/c.JPG "C-Shape Gesture (c)")  
   
 ## Demo Video
 [Link to Demo Video](https://drive.google.com/file/d/16xmpxe-5s1VeitDUrmdZ9yi47GWhkeAr/view?usp=sharing)
