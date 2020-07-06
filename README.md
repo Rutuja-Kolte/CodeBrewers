@@ -131,34 +131,34 @@ In the above project we have used only static gestures. It can be modified to in
 
 ## Screenshots
 * Down Gesture (down)  
-![Down Gesture (down)](https://drive.google.com/uc?export=view&id=12nRUIviFMCjMHzSf6eCIHKsci8hKCOaJ "Down Gesture (down)")  
+![Down Gesture (down)](Screenshots/down.JPG "Down Gesture (down)")  
   
 * Palm Gesture (palm)  
-![Palm Gesture (palm)](https://drive.google.com/uc?export=view&id=19KYMxtVrM-42Il3NqcOGW9kyfPV-aJv9 "Palm Gesture (palm)")  
+![Palm Gesture (palm)](Screenshots/palm.JPG "Palm Gesture (palm)")  
   
 * L-Shape Gesture (l)  
-![L-Shape Gesture (l)](https://drive.google.com/uc?export=view&id=12y1_PAzcxS6OfEbJM7PzARzi9XNnJubT "L-Shape Gesture (l)")   
+![L-Shape Gesture (l)](Screenshots/l.JPG "L-Shape Gesture (l)")   
   
 * Fist Gesture (fist)  
-![Fist Gesture (fist)](https://drive.google.com/uc?export=view&id=1zEQR6GX-RMR30-TNvAVllagcF26z3RJT "Fist Gesture (fist)")  
+![Fist Gesture (fist)](Screenshots/fist.JPG "Fist Gesture (fist)")  
   
 * Turned Fist Gesture (fist_moved)  
-![Turned Fist Gesture (fist_moved)](https://drive.google.com/uc?export=view&id=1zSpdaK_b0eGi1nBNw-cbUIiDAzoevTPu "Turned Fist Gesture (fist_moved)")  
+![Turned Fist Gesture (fist_moved)](Screenshots/fist_moved.JPG "Turned Fist Gesture (fist_moved)")  
   
 * Fist with Thumb Sticking Out Gesture (thumb)  
-![Fist with Thumb Sticking Out Gesture (thumb)](https://drive.google.com/uc?export=view&id=1a6wJQFpFS4NkPIv1n1EelaYT_ECWY6JQ "Fist with Thumb Sticking Out Gesture (thumb)") 
+![Fist with Thumb Sticking Out Gesture (thumb)](Screenshots/thumb.JPG "Fist with Thumb Sticking Out Gesture (thumb)") 
   
 * Index Finger Up Gesture (index)  
-![Index Finger Up Gesture (index)](https://drive.google.com/uc?export=view&id=18W-8pzd16-ug6trs5O0_5yxQ-xkfda99 "Index Finger Up Gesture (index)")  
+![Index Finger Up Gesture (index)](Screenshots/index.JPG "Index Finger Up Gesture (index)")  
   
 * OK Gesture (ok)  
-![OK Gesture (ok)](https://drive.google.com/uc?export=view&id=1FMS7NUjk3U4Eqplck5uPlxUvR8hRnhWN "OK Gesture (ok)")  
+![OK Gesture (ok)](Screenshots/ok.JPG "OK Gesture (ok)")  
   
 * Turned Palm Gesture (palm_moved)  
-![Turned Palm Gesture (palm_moved)](https://drive.google.com/uc?export=view&id=1xWxT42HIGqMriwAzusAocMV9JjLMTCT2 "Turned Palm Gesture (palm_moved)")  
+![Turned Palm Gesture (palm_moved)](Screenshots/palm_moved.JPG "Turned Palm Gesture (palm_moved)")  
   
 * C-Shape Gesture (c)  
-![C-Shape Gesture (c)](https://drive.google.com/uc?export=view&id=1l3l0k__o6Oz0Q75uqCscfVs5HZHS8ftd "C-Shape Gesture (c)")  
+![C-Shape Gesture (c)](Screenshots/c.JPG "C-Shape Gesture (c)")  
   
 ## Demo Video
 [Link to Demo Video](https://drive.google.com/file/d/16xmpxe-5s1VeitDUrmdZ9yi47GWhkeAr/view?usp=sharing)
