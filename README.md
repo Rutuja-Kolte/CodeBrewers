@@ -143,7 +143,7 @@ In the above project we have used only static gestures. It can be modified to in
 ![Fist Gesture (fist)](https://drive.google.com/uc?export=view&id=1zEQR6GX-RMR30-TNvAVllagcF26z3RJT "Fist Gesture (fist)")  
   
 * Turned Fist Gesture (fist_moved)  
-![Turned Fist Gesture (fist_moved)](https://drive.google.com/uc?export=view&id=1pc51UvLf2hK0e9Lh-Ht6dCNQiS8tZSxZ "Turned Fist Gesture (fist_moved)")  
+![Turned Fist Gesture (fist_moved)](https://drive.google.com/uc?export=view&id=1zSpdaK_b0eGi1nBNw-cbUIiDAzoevTPu "Turned Fist Gesture (fist_moved)")  
   
 * Fist with Thumb Sticking Out Gesture (thumb)  
 ![Fist with Thumb Sticking Out Gesture (thumb)](https://drive.google.com/uc?export=view&id=1a6wJQFpFS4NkPIv1n1EelaYT_ECWY6JQ "Fist with Thumb Sticking Out Gesture (thumb)") 
@@ -155,7 +155,7 @@ In the above project we have used only static gestures. It can be modified to in
 ![OK Gesture (ok)](https://drive.google.com/uc?export=view&id=1FMS7NUjk3U4Eqplck5uPlxUvR8hRnhWN "OK Gesture (ok)")  
   
 * Turned Palm Gesture (palm_moved)  
-![Turned Palm Gesture (palm_moved)](https://drive.google.com/uc?export=view&id=1T3ggA0xnYsCFJXTXVKclKEFSgI9DCoPD "Turned Palm Gesture (palm_moved)")  
+![Turned Palm Gesture (palm_moved)](https://drive.google.com/uc?export=view&id=1xWxT42HIGqMriwAzusAocMV9JjLMTCT2 "Turned Palm Gesture (palm_moved)")  
   
 * C-Shape Gesture (c)  
 ![C-Shape Gesture (c)](https://drive.google.com/uc?export=view&id=1l3l0k__o6Oz0Q75uqCscfVs5HZHS8ftd "C-Shape Gesture (c)")  
