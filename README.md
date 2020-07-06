@@ -15,7 +15,7 @@
 * Vedant Paranjape
 
 ## Description
-The goal of our project was to train Machine learning algorithm capable of classifying images of different hand gestures,such as fists,palm showing,etc.,and use it for gesture detection and recognition.
+The goal of our project was to train a machine learning algorithm capable of classifying images of different hand gestures (such as fists, palm, etc.) and use it for gesture detection and recognition.
 * GitHub repo link: [Link to repository](https://github.com/Rutuja-Kolte/CodeBrewers)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1YxJxfa36NaUZYAGVKP1biX78SaF2loQw?usp=sharing)
 
