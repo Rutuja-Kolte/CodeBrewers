@@ -15,7 +15,60 @@
 * Vedant Paranjape
 
 ## Description
-The goal of our project was to train a machine learning algorithm capable of classifying images of different hand gestures (such as fists, palm, etc.) and use it for gesture detection and recognition.
+The goal of our project was to train a machine learning algorithm capable of classifying images of different hand gestures (such as fists, palm, etc.) and use it for gesture detection and recognition.  
+  
+We have used the [Hand Gesture Recognition Database from Kaggle](https://www.kaggle.com/gti-upm/leapgestrecog/version/1).  
+   
+### Creating the Model
+* First we load the images from proj.zip
+* Their sizes are reduced and their color space is turned to gray. They are stored in array X while their labels are stored in array Y.
+* The model is constructed using Tensorflow and Keras.
+```
+    model = Sequential()
+    model.add(Conv2D(32, (5, 5), activation='relu', input_shape=(120, 320, 1))) 
+    model.add(MaxPooling2D((2, 2)))
+    model.add(Conv2D(64, (3, 3), activation='relu')) 
+    model.add(MaxPooling2D((2, 2)))
+    model.add(Conv2D(64, (3, 3), activation='relu'))
+    model.add(MaxPooling2D((2, 2)))
+    model.add(Flatten())
+    model.add(Dense(128, activation='relu'))
+    model.add(Dense(10, activation='softmax'))
+```
+* The model is then configured and trained.
+```
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    model.fit(X, Y, epochs=5, batch_size=64, verbose=2, validation_data=(X, Y))
+```
+* The model is then saved as an HDF5 file.
+### Using the Model
+* The model from GestureRecognition.h is loaded.
+* The image is taken from webcam.
+* It is resized and changed to grayscale.
+* Running average method is used for background subtraction.
+```
+    averageValue1 = np.float32(img)
+    while True:
+        try:
+            filename = take_photo()
+            img = cv2.imread('/content/photo.jpg')  # Reads the picture taken from webcam
+            cv2.accumulateWeighted(img, averageValue1, 0.02)  # Updates the running average
+            resultingFrames1 = cv2.convertScaleAbs(averageValue1) # Converts the matrix elements to absolute values and converts the result to 8-bit
+            cv2_imshow(resultingFrames1)  # Background using Running Average Method
+            m = cv2.subtract(img,resultingFrames1)  # Foreground by subtracting background from original image
+        except Exception as err:
+            # Errors will be thrown if the user does not have a webcam or if they do not grant the page permission to access it
+            print(str(err))
+```
+* The model then predicts the gesture and prints it.
+```
+    gesture = ("down", "palm", "l", "fist", "fist_moved", "thumb", "index", "ok", "palm_moved", "c")
+    prediction = model.predict(np.expand_dims(m, axis = 0)) # Makes predictions
+    ans = np.argmax(prediction[0])
+    print(prediction[0][ans]) # Prints probability of prediction
+    print(gesture[ans]) # Prints predicted gesture
+```
+#### Links
 * GitHub repo link: [Link to repository](https://github.com/Rutuja-Kolte/CodeBrewers)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1YxJxfa36NaUZYAGVKP1biX78SaF2loQw?usp=sharing)
 
