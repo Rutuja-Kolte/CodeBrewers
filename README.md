@@ -46,8 +46,11 @@ Tools and technologies that we learnt and used in the project.
 3. In cranes, this can be used instead of remotes so that easy picking and shedding of load can be load at difficult locations.
 
 ## Future scope
-The project can be linked to a Media player such as VLC and the gestures can be used to control the video like increasing or decreasing its volume or fast forwarding and rewinding the video. Also, instead of using a mouse the gestures can also be used to control your mouse pointer.
-In the above project we have used only static gestures. It can be modified to include dynamic gestures(swiping your fist to the right or left, moving your finger up and down etc.)
+The project can be linked to a Media player such as VLC and the gestures can be used to control the video like increasing or decreasing its volume or fast forwarding and rewinding the video. Also, instead of using a mouse the gestures can also be used to control your mouse pointer.  
+  
+Currently, the model used cannot recognise when there are no gestures detected. This functionality can be added as well.   
+  
+In the above project we have used only static gestures. It can be modified to include dynamic gestures (swiping your fist to the right or left, moving your finger up and down, etc.).
 
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
