@@ -42,7 +42,7 @@ We have used the [Hand Gesture Recognition Database from Kaggle](https://www.kag
 ```
 * The model is then saved as an HDF5 file.
 ### Using the Model
-* The model from GestureRecognition.h is loaded.
+* The model from GestureRecognition.h5 is loaded.
 * The image is taken from webcam.
 * It is resized and changed to grayscale.
 * Running average method is used for background subtraction.
