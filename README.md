@@ -38,7 +38,7 @@ We have used the [Hand Gesture Recognition Database from Kaggle](https://www.kag
 * The model is then configured and trained.
 ```
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    model.fit(X, Y, epochs=5, batch_size=64, verbose=2, validation_data=(X, Y))
+    model.fit(X_train, Y_train, epochs=5, batch_size=64, verbose=2, validation_data=(X_test, Y_test))
 ```
 * The model is then saved as an HDF5 file.
 ### Using the Model
